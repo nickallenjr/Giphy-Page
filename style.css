@@ -41,3 +41,7 @@ h1 {
 	height: auto;
 	float: left;
 }
+
+label {
+	color: white;
+}
