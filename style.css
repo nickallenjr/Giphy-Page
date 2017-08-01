@@ -1,0 +1,43 @@
+body {
+	background: url(blackmaze.png);
+}
+
+.images {
+	width: 25%;
+	height: 25%;
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'Lemonada', cursive;
+}
+
+#gif-form {
+	float: right;
+}
+
+#gifs {
+	float: left;
+	width: 75%;
+}
+
+#button-container {
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+.gifname {
+	margin-right: 5px;
+	text-transform: capitalize;
+}
+
+.gifContainer {
+	width: auto;
+	height: auto;
+	float: left;
+}
